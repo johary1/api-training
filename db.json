@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "pseudo": "joe",
+      "message": "Yo !",
+      "id": 1
+    },
+    {
+      "pseudo": "joe",
+      "message": "Yo !",
+      "id": 2
+    },
+    {
+      "pseudo": "joe",
+      "message": "Yo !",
+      "id": 3
+    },
+    {
+      "pseudo": "joe",
+      "message": "Yo !",
+      "id": 4
+    },
+    {
+      "pseudo": "joe",
+      "message": "Yo !",
+      "id": 5
+    },
+    {
+      "pseudo": "joe",
+      "message": "Yo !",
+      "id": 6
+    }
+  ]
+}
